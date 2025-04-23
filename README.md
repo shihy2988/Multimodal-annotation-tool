@@ -1,1 +1,1 @@
-# Multimodal-annotation-tool-
+# Multimodal-annotation-tool
