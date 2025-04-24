@@ -8,5 +8,3 @@
 ![image](./images/test.gif)
 
 ## api 是本地部署
-## 需要请联系作者：
-![image](./images/wechat.jpg)
